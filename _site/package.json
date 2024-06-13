@@ -1,0 +1,18 @@
+{
+  "name": "ragner666.github.io",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "markbind init",
+    "build": "markbind build",
+    "serve": "markbind serve",
+    "deploy": "markbind deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markbind-cli": "^5.5.2"
+  }
+}
